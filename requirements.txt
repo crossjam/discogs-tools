@@ -1,0 +1,4 @@
+lxml
+xmltodict
+simplejson
+click
