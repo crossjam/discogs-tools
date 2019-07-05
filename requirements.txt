@@ -1,4 +1,6 @@
-lxml
-xmltodict
-simplejson
 click
+lxml
+simplejson
+xmljson
+xmltodict
+ftfy
