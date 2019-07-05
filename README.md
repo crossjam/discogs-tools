@@ -1,5 +1,7 @@
 # Discogs Data Manipulation Tools
 
+## What is it?
+
 A command line tool suite for checking, cleaning, and converting
 [Discogs Data Dumps](https://data.discogs.com/) into JSON format.
 
